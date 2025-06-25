@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
  Route::view('post','/post');
- Route::view ('get',"/get");
+ Route::view ('get',"/getboostgit");
