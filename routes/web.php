@@ -20,3 +20,6 @@ Route::get('/', function () {
  Route::view ('get',"/getboostgit");
  Route::view ('get',"/getfeature
  ");
+ 
+ Route::view ('update',"/update
+ ");
